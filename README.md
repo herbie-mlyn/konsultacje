@@ -8,3 +8,9 @@ Aplikacja do rezerwacji konsultacji psychologicznych, tworzona na zajęciach
     python -m venv .venv
     pip install -r requirements.txt
     python hello.py
+
+## Planowane funkcje
+
+- przeglądanie listy specjalistów
+- rezerwacja wizyty
+- opinie po wizycie
