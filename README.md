@@ -1,4 +1,4 @@
-# Konsultacje
+# Konsultacje psychologiczne
 
 Aplikacja do rezerwacji konsultacji psychologicznych, tworzona na zajęciach
 „Projektowanie aplikacji webowych” (SWPS).
