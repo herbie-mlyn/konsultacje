@@ -14,6 +14,7 @@ Aplikacja do rezerwacji konsultacji psychologicznych, tworzona na zajęciach
 - przeglądanie listy specjalistów
 - rezerwacja wizyty
 - opinie po wizycie
+- panel administratora
 
 ## Technologie
 
